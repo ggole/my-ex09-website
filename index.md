@@ -7,7 +7,7 @@ layout: default
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src=".vscode/personal-site.github.io/static/imgs/graph1.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="C:\Users\gargi\.vscode\personal-site.github.io\static\imgs\graph1.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Conclusion
 The data that we analyzed was the 
