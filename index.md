@@ -7,7 +7,7 @@ layout: default
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="\static\imgs\graph1.png" alt="Image of Comp110 rainbow logo. "  width="600"/>
+<img src="static/imgs/graph1.png" alt="Graph of Difficulty and a Preference for Pre-Lecture Videos. "  width="600"/>
 
 ## Conclusion
 The data that we analyzed was the 
