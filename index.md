@@ -7,7 +7,7 @@ layout: default
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/graph1.png" alt="Graph of Difficulty and a Preference for Pre-Lecture Videos. "  width="3000"/>
+<img src="static/imgs/graph1.png" alt="Graph of Difficulty and a Preference for Pre-Lecture Videos. "  width="1000"/>
 
 ## Summary
 ### Difficulty and a Preference for Pre-Lecture Videos.
@@ -20,7 +20,7 @@ In the first visualization which compared the difficulty of the class and expres
 ### Prior experience and Preference for Pre-Lecture Videos
 In the second visualization prior experience is compared to the desire for pre lecture videos. There is a set of 5 barplots each of represents a different category of prior experience: None - less than a month, 2-6 months, 7-12 months, over 1 year, and 2-6 years. The ranking for preference for pre lecture videos is broken up amongst the distinct categories to distinguish how the general trend of pre lecture videos differs amongst the categories. The category of those who have "None - less than a month" express the greatest preference for pre leture videos. While the other categories do not express as high of ranking for pre lecture videos they still do express it slight. This suggests that pre lecture videos are beneficial to all students to make understanding the content easier, although they are more preferred by those with less experience.
 
-<img src="static/imgs/graph3.png" alt="Graph of Difficulty and a Preference for Pre-Lecture Videos. "  width="3000"/>
+<img src="static/imgs/graph3.png" alt="Graph of Difficulty and a Preference for Pre-Lecture Videos. "  width="1000"/>
 
 ### Pace and Preference for Pre-Lecture Videos
 
